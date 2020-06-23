@@ -15,7 +15,7 @@ O back-end da aplicação, foi desenvolvido com:
 - Node.js
 - Express
 - Knex.js
-- Sqlite
+- Sqlite3
 - Multer
 - Insomnia para testes
 
